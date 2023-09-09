@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div class="rotate-45">
+        <div class="up">
+            <div class="u1"></div>
+            <div class="u2"></div>
+        </div>
+        <div class="box">
+            <div class="text">
+                <h2>HTML <span>&</span> CSS</h2>
+                <p class="tagline">design and build websites</p>
+            </div>
+        </div>
+        <div class="down">
+            <div class="d1"></div>
+            <div class="d2"></div>
+        </div>
+    </div>
+</body>
+
+</html>
